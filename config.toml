@@ -45,7 +45,7 @@ arch = "arm-v7a"
 
 [Twitter]
 build-mode = "apk"
-excluded-patches = ""
+excluded-patches = "dynamic-color monochrome-icon"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
