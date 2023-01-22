@@ -9,7 +9,7 @@ build-mindetach-module = false
 
 
 [YouTube]
-enabled = true                                                        # add 'enabled = false' key to entries to not build them
+enabled = false                                                        # add 'enabled = false' key to entries to not build them
 build-mode = "apk"                                                   # 'both', 'apk' or 'module'
 excluded-patches = "debugging"                                        # whitespace seperated list of patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # whitespace seperated list of patches to include
